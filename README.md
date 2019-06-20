@@ -4,11 +4,11 @@
 
 **Please click the image below to enlarge.**
 
-<img src="Screenshots/Screenshot (5).jpg" height="600" width="300" hspace="40"><img src="Screenshots/Screenshot (1).jpg" height="600" width="300" hspace="40">
+<img src="Screenshots/Screenshot1.jpg" height="600" width="300" hspace="40"><img src="Screenshots/Screenshot2.jpg" height="600" width="300" hspace="40">
 
-<img src="Screenshots/Screenshot (3).jpg" height="600" width="300" hspace="40"><img src="Screenshots/Screenshot (4).jpg" height="600" width="300" hspace="40">
+<img src="Screenshots/Screenshot3.jpg" height="600" width="300" hspace="40"><img src="Screenshots/Screenshot4.jpg" height="600" width="300" hspace="40">
 
-<img src="Screenshots/Screenshot (2).jpg" height="600" width="300" hspace="40">
+<img src="Screenshots/Screenshot5.jpg" height="600" width="300" hspace="40">
 ## Contributing
 
 Please fork this repository and contribute back using
